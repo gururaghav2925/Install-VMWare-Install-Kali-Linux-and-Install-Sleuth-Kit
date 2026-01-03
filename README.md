@@ -1,6 +1,5 @@
-# Install-VMWare-Install-Kali-Linux-and-Install-Sleuth-Kit
-### Reg.No : 2122223220027
-### Name : Guru Raghav Ponjeevith V
+# EX NO : 1  Install-VMWare-Install-Kali-Linux-and-Install-Sleuth-Kit
+
 ## AIM:
 
 To install VMware, set up Kali Linux as a virtual machine, and install Sleuth Kit for digital forensic analysis.
